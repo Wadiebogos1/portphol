@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello, World!</h1>
+    <a href="api/ex_1">Go to API</a>
 </body>
 </html>
